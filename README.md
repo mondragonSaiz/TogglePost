@@ -1,11 +1,10 @@
 # TogglePost
 
-### Social Manager App
 
 [![Build Status](https://travis-ci.org/your-username/social-manager.svg?branch=master)](https://travis-ci.org/your-username/social-manager)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Social Manager is a MERN (MongoDB, Express.js, React, Node.js) stack application that empowers community managers to streamline post automation and stay updated on trending topics across popular social networks like TikTok, Instagram, and Twitter.
+TogglePost is a MERN (MongoDB, Express.js, React, Node.js) stack application that empowers community managers to streamline post automation and stay updated on trending topics across popular social networks like TikTok, Instagram, and Twitter.
 
 ## Table of Contents
 
