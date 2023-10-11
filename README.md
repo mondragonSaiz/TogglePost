@@ -62,9 +62,14 @@ TogglePost is a MERN (MongoDB, Express.js, React, Node.js) stack application tha
 
 - Update social media API keys and tokens in `server/config/keys.js`.
 
-## Contributing
+##  Contributing
+Contributions are welcome! If you'd like to contribute to this project, please follow these guidelines:
 
-If you'd like to contribute, please follow the steps in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+- Fork the repository
+- Create your branch: git checkout -b feature/your-feature
+- Make your changes and commit them: git commit -m 'Add some feature'
+- Push to the branch: git push origin feature/your-feature
+- Create a pull request
 
 ## License
 
