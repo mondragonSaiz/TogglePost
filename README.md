@@ -1,6 +1,6 @@
 # TogglePost
 
-## Social Manager App
+### Social Manager App
 
 [![Build Status](https://travis-ci.org/your-username/social-manager.svg?branch=master)](https://travis-ci.org/your-username/social-manager)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
