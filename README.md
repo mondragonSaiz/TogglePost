@@ -26,8 +26,8 @@ TogglePost is a MERN (MongoDB, Express.js, React, Node.js) stack application tha
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/social-manager.git
-    cd social-manager
+    git clone https://github.com/your-username/TogglePost.git
+    cd toggle-post
     ```
 
 2. Install dependencies for the server and client:
